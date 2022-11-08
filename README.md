@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://hachyderm.io/@trawler">Mastodon</a>
+<a rel="me" href="https://hachyderm.io/@trawler">@trawler@hachyderm.io at Mastodon</a>
