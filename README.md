@@ -1,9 +1,11 @@
 
 # Trawler
+![trawler's github stats](./profile/stats.svg)
+
+<!--
 ![Trawler's github stats](https://github-readme-stats.vercel.app/api?username=trawler&count_private=true&show_icons=true&hide_title=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trawler&layout=compact)
 
-<!--
 **trawler/trawler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
