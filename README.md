@@ -2,7 +2,6 @@
 # Trawler
 ![trawler's github stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <!--
 ![Trawler's github stats](https://github-readme-stats.vercel.app/api?username=trawler&count_private=true&show_icons=true&hide_title=true&hide=stars)
